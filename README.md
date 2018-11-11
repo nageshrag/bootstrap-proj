@@ -1,4 +1,4 @@
-# Dashboards by Keen IO
+# Dashboards by tester
 
 Building an analytics dashboard? Don’t start from scratch. Grab one of our Bootstrap-based templates and admire your data in minutes.
 
